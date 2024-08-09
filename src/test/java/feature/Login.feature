@@ -8,6 +8,7 @@ Feature: Login feature
     And User click on the login button
     Then User should be navigate to the inventory page
     But User shouldn't be on the login page
+
   @login @smoke
   Scenario: User should not be able to login with an invalid password
     When User enter "standard_user" on the username filed

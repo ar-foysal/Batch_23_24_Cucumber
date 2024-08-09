@@ -17,7 +17,7 @@
 
         <protocol>http</protocol>
         <!-- title of the document -->
-        <documentTitle>Batch_22_Cucumber</documentTitle>
+        <documentTitle>Batch_23_24_Cucumber</documentTitle>
         <!-- report name - displayed at top-nav -->
 
         <reportName>Test Report</reportName>
